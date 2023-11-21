@@ -4,7 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <!-- Botón para filtrar la lista -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -52,11 +51,5 @@
             android:padding="16dp" />
 
     </LinearLayout>
-
-    <!-- Botón para ordenar la lista -->
-
-    <!-- Botón para ver el resultado -->
-
-    <!-- ListView para mostrar las producciones -->
 
 </RelativeLayout>
